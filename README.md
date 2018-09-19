@@ -1,6 +1,7 @@
 # Freedombone Graphics
 Graphics to support Freedomebone Project
 
-Tools used
+Tools used: 
 Inkscape
 SVG Minifier
+SVG Optimiser
