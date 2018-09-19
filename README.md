@@ -1,5 +1,5 @@
 # Freedombone Graphics
-Graphics to support Freedomebone Project
+Graphics to support Freedombone Project
 
 Tools used: 
 Inkscape
